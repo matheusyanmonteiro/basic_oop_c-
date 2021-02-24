@@ -1,0 +1,13 @@
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\bin\Debug\netcoreapp3.1\newExercise.exe
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\bin\Debug\netcoreapp3.1\newExercise.deps.json
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\bin\Debug\netcoreapp3.1\newExercise.runtimeconfig.json
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\bin\Debug\netcoreapp3.1\newExercise.runtimeconfig.dev.json
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\bin\Debug\netcoreapp3.1\newExercise.dll
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\bin\Debug\netcoreapp3.1\newExercise.pdb
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.csprojAssemblyReference.cache
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.AssemblyInfoInputs.cache
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.AssemblyInfo.cs
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.dll
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.pdb
+C:\Users\Matheus.Monteiro\source\repos\newExercise\newExercise\obj\Debug\netcoreapp3.1\newExercise.genruntimeconfig.cache
